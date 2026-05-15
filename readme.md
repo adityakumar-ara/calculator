@@ -30,6 +30,13 @@ _______________________________________________________________________________
 Nayi branch banane aur usme shift hone ke liye:
 Command :- git checkout -b branch-name 
 
+New branch me jane ke liye 
+
+command :- git checkout branch name 
+
+Delete branch 
+
+Command :- git checkout -d branch name 
 -------------------------------------------------------
 
 If create new repo.=> Pehle apne local Git ko GitHub repository se connect karein:
