@@ -43,6 +43,6 @@ If create new repo.=> Pehle apne local Git ko GitHub repository se connect karei
 Command :- git remote add origin <GitHub_Repo_URL>
 
 Phir code ko push kar dein:
-Command :- git push -u origin main
-                👆 YA 👇
-Command :- git push -f origin main
+Command :- git push -u origin main <br>
+                <center>👆 YA 👇</center>
+Command :- git push -f origin main <br>
